@@ -58,10 +58,6 @@ a {
     background: #FF3F40;
 }
 
-.top__info {
-    width: 618px;
-}
-
 .top__content {
     padding-top: 102px;
     display: flex;
@@ -76,6 +72,7 @@ a {
     letter-spacing: 1.5px;
     text-transform: uppercase;
     color: #000000;
+    width: 618px;
 }
 
 .org__heading {
