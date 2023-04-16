@@ -27,8 +27,7 @@ a {
 }
 
 .header {
-    background: #000000;
-    opacity: 0.8;
+    background: rgba(0, 0, 0, 0.8);
     border: 1px solid #000000;
 }
 
@@ -99,7 +98,7 @@ a {
 .top__video {
     width: 554px;
     height: 359px;
-    box-shadow: -9px -19px 36px 0px rgba(34, 60, 80, 0.12);
+    box-shadow: -2.2px -13.8px 73px 0px rgba(0, 0, 0, 0.29);
 }
 
 .button {
